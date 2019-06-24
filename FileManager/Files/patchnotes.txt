@@ -1,0 +1,11 @@
+Update v1.71:
+Fixed an issue where NPC dialogue could reset if the player's inventory was too full to receive a reward
+Improved icons for underwater products
+Fixed an issue with biological horrors and jellyfish in Permadeath mode
+Fixed an issue with the hypnotic Abyssal Horror and clam in multiplayer
+Disabled gestures while on ladders
+Improved some underwater sound effects
+Fixed some rare crashes
+Fixed an issue where the interior of the science frigate could be missing
+Fixed an issue preventing building multiples of storage container 1
+Prevented an erroneous boost icon appearing while piloting the Nautilon
